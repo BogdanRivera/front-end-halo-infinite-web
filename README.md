@@ -25,7 +25,7 @@ git clone https://github.com/BogdanRivera/front-end-halo-infinite-web.git
 ```
 ### Install dependencies:
 ```
-cd front-end-halo-infinite-web
+cd src
 npm install
 ```
 ### Start the application:
