@@ -1,4 +1,15 @@
-# Halo Website Replica
+<h1 align="center"> Halo Website Replica </h1>
+
+
+<p align="center">
+  <img src="https://github.com/BogdanRivera/front-end-halo-infinite-web/assets/121648408/b1de725a-a962-4a45-b7f1-b15880227b21" alt="Project logo">
+</p>
+
+   <p align="center">
+   <img src="https://img.shields.io/badge/STATUS-FINISHED-green">
+   </p>
+
+
 This project is a faithful replica of the Microsoft Halo webpage, meticulously crafted using HTML, CSS, and JavaScript for an immersive user experience. The primary focus of this project lies in frontend development, paying homage to one of the all-time favorite video games.
 
 # Screenshots
